@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiopg/commit/eabd5216c0adf7a131f79d028af9810c99e9b8ae",
       "git:hexsha": "eabd5216c0adf7a131f79d028af9810c99e9b8ae",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiopg/commit/6bd6fc69767a23d193128180624ae56f2c4b7e0f",
